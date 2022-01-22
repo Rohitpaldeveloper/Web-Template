@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Template</title>
+</head>
+
+<body>
+    <table border="1" width="100%">
+        <tr>
+            <td width="100%" height="100px" colspan="4">
+                <table border="1" width="100%">
+                    <tr>
+                        <td width="8%" height="100px"></td>
+                        <td width="7%" height="100px" align="center" bgcolor="#EAECEE">
+                            <img src="image/logo.jpg" alt="" width="100px" height="95px">
+                        </td>
+                        <td width="37%" height="100px" bgcolor="#EAECEE">
+                            <h1> FINAL WEB TEMPLATE </h1>
+                        </td>
+                        <td width="40%" height="100px" bgcolor="#EAECEE">
+                            <table border="1" width="100%">
+                                <tr>
+                                    <td width="100%" height="40px" align="right">
+                                        iambittupal@icloud.com &nbsp;
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="100%" height="40px" align="right">
+                                        <img src="logo/flogo.png" alt="" width="40px" height="40px"> &nbsp;
+                                        <img src="logo/i logo.jfif" alt="" width="40px" height="40px"> &nbsp;
+                                        <img src="logo/l logo.png" alt="" width="40px" height="40px"> &nbsp;
+                                        <img src="logo/t logo.png" alt="" width="40px" height="40px"> &nbsp;
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td width="8%" height="100px"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td width="75%" height="500px" colspan="3" bgcolor="#AED6F1" valign="top">
+                <img src="image/banner.jpg" width="100%" height="300px">
+                <hr>
+                <h1>Make Friends </h1>
+                <p>
+                    Make Friends It is a long established fact that a reader will be distracted by the readable content
+                    of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less
+                    normal distribution of letters, as opposed to using 'Content here, content here', making it look
+                    like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as
+                    their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their
+                    infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose
+                    (injected humour and the like).
+                </p>
+            </td>
+            <td width="25%" colspan="1">
+                <table border="1" width="100%" bgcolor="#B3B6B7">
+                    <tr>
+                        <td width="100%" height="100px" align="center">
+                            <a href="#">HOME</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="100px" align="center">
+                            <a href="#">SERVICES</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="100px" align="center">
+                            <a href="#">CONTACT</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="100px" align="center">
+                            <a href="#">SUPPORT</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="100px" align="center">
+                            <a href="#">WHY CHOOSE US</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td width="25%" height="750px" colspan="1" bgcolor="#EDBB99">
+                <table border="1" width="100%">
+                    <tr>
+                        <td width="100%" height="50px" align="center" bgcolor="#F7DC6F">
+                            <a href="#">Inbox</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Starred</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Snoozed</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Sent</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Draft</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Important</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Chats</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Scheduled</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">All Mail</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Spam</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Bin</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Social</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Update</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Forums</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#">Promotions</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td width="50%" colspan="2">
+                <table border="1" width="100%" bgcolor="#C39BD3">
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            Hey Rohit You Got A New Mail from xyz@hotmail.com Follow For More Updates Join ! Now
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td width="25%" colspan="1" align="center" valign="top" bgcolor="#D7BDE2">
+                <marquee behavior="" direction="">
+                    Ads &nbsp; Ads &nbsp; Ads &nbsp; Ads &nbsp; Ads &nbsp; Ads &nbsp; Ads &nbsp; Ads &nbsp;
+
+                    <hr>
+                    <img src="p4.jfif" alt="">
+                    <hr>
+                    <img src="p5.jfif" alt="">
+                    <hr>
+                    <img src="p4.jfif" alt="">
+                    <hr>
+                    <img src="p5.jfif" alt="">
+                    <hr>
+                </marquee>
+            </td>
+        </tr>
+        <tr>
+            <td width="25%" height="250px" bgcolor="#F7DC6F">
+                <table border="1" width="100%">
+                    <tr>
+                        <td width="100%" height=125px align="center">
+                            <img src="logo/bitcoin.jpg" alt="" width="100px" height="100px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height=125px align="justify">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, veniam? Harum fuga
+                            quaerat, nostrum labore sequi excepturi temporibus provident molestiae molestias aperiam
+                            autem voluptas laudantium omnis enim maiores quod
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td width="25%" bgcolor="#F7DC6F">
+                <table border="1" width="100%">
+                    <tr>
+                        <td width="100%" height=125px align="center">
+                            <img src="logo/bitcoin.jpg" alt="" width="100px" height="100px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height=125px align="justify">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, veniam? Harum fuga
+                            quaerat, nostrum labore sequi excepturi temporibus provident molestiae molestias aperiam
+                            autem voluptas laudantium omnis enim maiores quod
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td width="25%" bgcolor="#F7DC6F">
+                <table border="1" width="100%">
+                    <tr>
+                        <td width="100%" height=125px align="center">
+                            <img src="logo/bitcoin.jpg" alt="" width="100px" height="100px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height=125px align="justify">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, veniam? Harum fuga
+                            quaerat, nostrum labore sequi excepturi temporibus provident molestiae molestias aperiam
+                            autem voluptas laudantium omnis enim maiores quod
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td width="25%" bgcolor="#F7DC6F">
+                <table border="1" width="100%">
+                    <tr>
+                        <td width="100%" height=125px align="center">
+                            <img src="logo/bitcoin.jpg" alt="" width="100px" height="100px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height=125px align="justify">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, veniam? Harum fuga
+                            quaerat, nostrum labore sequi excepturi temporibus provident molestiae molestias aperiam
+                            autem voluptas laudantium omnis enim maiores quod
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td width="100%" height="100px" colspan="4" align="center" bgcolor="#EAECEE">
+                Copyright &#169; ! Managed By Rohit Pal ! 2022
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
