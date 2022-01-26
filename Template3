@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template</title>
+</head>
+
+<body>
+    <table border="1">
+        <tr>
+            <td width="100%" height="500px" valign="top" colspan="3">
+                <img src="b2.jfif" width="1330px" height="500px">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table border="1" width="100%" height="150px">
+                    <tr>
+                        <td width="15%" colspan="1"></td>
+                        <td width="70%" colspan="1">
+                            <h4>
+                                &nbsp; Find a quality and right headphones not easy
+                            </h4>
+                            <p align="justify">
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque mollitia
+                                commodi
+                                distinctio itaque repudiandae vel harum fugit voluptatum. Enim cupiditate
+                                necessitatibus
+                                placeat, porro maiores libero reiciendis facilis suscipit cum illum accusamus autem
+                                provident natus voluptatibus dolorem reprehenderit eveniet ipsa quo eum temporibus
+                                a
+                            </p>
+                        </td>
+                        <td width="15%" colspan="1"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td width="100%" height="80px" colspan="3" align="center" bgcolor="#DC7633">
+                <h2>Business HTML Templates Free Download</h2>
+            </td>
+        </tr>
+        <tr>
+            <td width="100%" height="350px">
+                <table border="1" width="100%" height="350px">
+                    <tr>
+                        <td width="15%" colspan="1"></td>
+                        <td width="70%" colspan="1">
+                            <table border="1" width="100%" height="350px">
+                                <tr>
+                                    <td width="100%" height="80px">
+                                        <h3> &nbsp; Hottest Headphones Of The Month</h3>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="100%" height="270px">
+                                        <table border="1" width="100%" height="270px">
+                                            <tr>
+                                                <td width="33%" height="270px">
+                                                    <img src="image/p7.jfif" alt="" width="100%" height="270px">
+                                                </td>
+                                                <td width="33%" height="270px">
+                                                    <img src="image/p7.jfif" alt="" width="100%" height="270px">
+                                                </td>
+                                                <td width="33%" height="270px">
+                                                    <img src="image/p7.jfif" alt="" width="100%" height="270px">
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td width="15%" colspan="1"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td width="100%" height="350px">
+                <table border="1" width="100%" height="350px">
+                    <tr>
+                        <td width="15%" colspan="1"></td>
+                        <td width="70%" colspan="1">
+                            <table border="1" width="100%" height="350px">
+                                <tr>
+                                    <td width="100%" height="80px">
+                                        <h3> &nbsp; Meet Our New Headphones</h3>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="100%" height="270px">
+                                        <table border="1" width="100%" height="270px">
+                                            <tr>
+                                                <td width="25%" height="135px">
+                                                    <img src="image/p1.jpg" alt="" width="100%" height="135px">
+                                                </td>
+                                                <td width="25%" height="135px">
+                                                    <img src="image/p2.jpg" alt="" width="100%" height="135px">
+                                                </td>
+                                                <td width="25%" height="135px">
+                                                    <img src="image/p3.jpg" alt="" width="100%" height="135px">
+                                                </td>
+                                                <td width="25%" height="135px">
+                                                    <img src="image/p4.jpg" alt="" width="100%" height="135px">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="25%" height="135px">
+                                                    <img src="image/p1.jpg" alt="" width="100%" height="135px">
+                                                </td>
+                                                <td width="25%" height="135px">
+                                                    <img src="image/p2.jpg" alt="" width="100%" height="135px">
+                                                </td>
+                                                <td width="25%" height="135px">
+                                                    <img src="image/p3.jpg" alt="" width="100%" height="135px">
+                                                </td>
+                                                <td width="25%" height="135px">
+                                                    <img src="image/p4.jpg" alt="" width="100%" height="135px">
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td width="15%" colspan="1"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table border="1" width="100%" height="100px" bgcolor="#DC7633">
+                    <tr>
+                        <td width="15%" colspan="1"></td>
+                        <td width="70%" colspan="1">
+                            <h4>
+                                &nbsp;&nbsp;&nbsp;We Give You Best Discount
+                            </h4>
+                            <p align="justify">
+                                &nbsp;&nbsp;&nbsp; Like it ? Pre-order and get discount
+                        </td>
+                        <td width="15%" colspan="1"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
