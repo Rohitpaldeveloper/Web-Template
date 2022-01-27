@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+
+<body>
+    <center>
+        <form method="post">
+            <p><input type="text" name="fname" placeholder="First Name"></p>
+            <p><input type="text" name="lname" placeholder="Last Name"></p>
+            <p><input type="email" name="uid" placeholder="Email"></p>
+            <p><input type="password" name="pd" placeholder="Password"></p>
+            <p><input type="text" name="add" placeholder="Address"></p>
+            <p>Gender :- Male<input type="radio" name="g" value="Male">
+                Female<input type="radio" name="g" value="Female">
+                Other<input type="radio" name="g" value="Other">
+            </p>
+            <p>
+                Cousre :- Mca<input type="checkbox" name="Mca">
+                Bca<input type="checkbox" name="Bca">
+                Mba<input type="checkbox" name="Mba">
+            </p>
+            <p>
+                <input type="date" name="dob">
+            </p>
+            <p>
+                <input type="time" name="time">
+            </p>
+            <p><input type="submit" name="reg" value="Register Now"></p>
+        </form>
+    </center>
+</body>
+
+</html>
